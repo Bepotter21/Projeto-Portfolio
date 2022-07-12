@@ -1,0 +1,21 @@
+.main-menu {
+    display: grid;
+    grid-template-columns: 250px 350px 350px 350px;
+    gap: 5em;;
+    background: #262626;
+    position: relative;
+    padding: 14px;
+}
+
+.main-menu a {
+    text-decoration: none;
+}
+.main-menu h1 {   
+    font-size: 28px;
+    color: #e7e3e3;
+    position: relative;
+    padding-left: 30px;
+}
+#topnav {
+    
+}
